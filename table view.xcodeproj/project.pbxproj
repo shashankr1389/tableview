@@ -288,6 +288,7 @@
 				988803561D27A5A000A8D198 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
